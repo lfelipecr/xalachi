@@ -2,3 +2,8 @@
 	path = xalachi/fecr
 	url = git@github.com:xalachi/fecr.git
 	branch = 12.0
+
+[submodule "HomebrewSoft/partner_wame"]
+	path = HomebrewSoft/partner_wame
+	url = git@github.com:HomebrewSoft/partner_wame.git
+	branch = 12.0
