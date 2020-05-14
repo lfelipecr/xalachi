@@ -7,13 +7,3 @@
 	path = HomebrewSoft/partner_wame
 	url = git@github.com:HomebrewSoft/partner_wame.git
 	branch = 12.0
-
-[submodule "xalachi/fecr_pos"]
-	path = xalachi/fecr_pos
-	url = git@github.com:xalachi/fecr_pos.git
-	branch = 12.0
-
-[submodule "xalachi3/fecr_pos"]
-	path = xalachi3/fecr_pos
-	url = git@github.com:xalachi/fecr_pos.git
-	branch = 12.0
