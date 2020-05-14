@@ -1,0 +1,7 @@
+jsonschema
+phonenumbers
+pyOpenSSL
+PyPDF2
+xmlsig
+suds-py3
+urlparse3
