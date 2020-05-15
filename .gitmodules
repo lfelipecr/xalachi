@@ -10,6 +10,5 @@
 
 [submodule "xalachi/fecr_pos"]
 	path = xalachi/fecr_pos
-	url = git@github.com:xalachi/fecr_pos.git
+	url = https://github.com/xalachi/fecr_pos
 	branch = 12.0
-
